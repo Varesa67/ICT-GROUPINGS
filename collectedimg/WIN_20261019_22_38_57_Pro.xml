@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimg</folder>
+	<filename>WIN_20261019_22_38_57_Pro.jpg</filename>
+	<path>C:\Users\hp\Downloads\ICT GROUP\collectedimg\WIN_20261019_22_38_57_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymin>427</ymin>
+			<xmax>1044</xmax>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>
