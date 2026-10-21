@@ -1,0 +1,5 @@
+path: 'C:/Users/hp/Downloads/ICT GROUP/person_dataset'
+train: images/train
+val: images/val
+names:
+  0: person
